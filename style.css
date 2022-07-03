@@ -1,0 +1,40 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-size: 44px;
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+    font-weight: 100;
+      
+}
+
+.mainhead {
+    font-weight: bold;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+    font-size: 32px;
+    font-family: "Times New Roman", sans-serif;
+    text-align: left;
+    font-weight: 100;
+}
+
+li {
+    color: #669900;
+}
+
+.ingredients {
+    font-style: italic;
+}
+
+a {
+    background-color: 00cc00;
+    font-size: 36px;
+}
